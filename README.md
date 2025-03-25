@@ -1,5 +1,8 @@
 # Banker's Algorithm Implementation
 
+![Screenshot 2025-03-25 at 4 37 20 PM](https://github.com/user-attachments/assets/8f45646f-baf0-42d3-a6cc-e5e11be592cb)
+
+
 ## Description
 This repository contains a C++ implementation of the Banker's Algorithm, a resource allocation and deadlock avoidance algorithm used in operating systems. The algorithm is designed to prevent deadlocks by determining whether allocating a resource to a process will lead to an unsafe state.
 
